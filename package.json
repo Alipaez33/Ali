@@ -1,0 +1,11 @@
+{
+  "name": "ali",
+  "version": "1.0.0",
+  "description": "pagina web ali",
+  "main": "formulario.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "alinson paez",
+  "license": "ISC"
+}
